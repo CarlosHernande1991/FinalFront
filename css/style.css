@@ -1,0 +1,64 @@
+@import url("https://fonts.google.com/specimen/Be+Vietnam");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  /*background-image: url(../img/bg-tablet-pattern.svg);
+  background-repeat: repeat-y;
+  */
+  margin: 15px;
+}
+/*header*/
+
+header{
+    color: #242E52;
+    display:flex;
+    justify-content:space-between;
+    align-items: center;  
+    width: 100%;
+}
+header nav ul li{
+    display: inline-block;
+    padding: 20px;
+}
+
+button{
+    color: white;
+    background-color: #F3603B ;
+    border-radius: 50px;
+    border:none;
+    Width: 134px;
+    Height: 44px;
+}
+
+
+/*Main*/
+
+.First_part{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;  
+}
+
+.First_part article span{
+    color:#232C50;
+    font-size: 58px;
+    font-weight: 700;
+
+}
+
+.First_part article p{
+     font-size: 17px;
+     font-weight: 500;
+
+
+}
+    
+/*header*/
+
+/*header*/
+/*header*/
